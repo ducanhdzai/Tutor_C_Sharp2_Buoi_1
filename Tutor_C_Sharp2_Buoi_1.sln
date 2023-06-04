@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Event", "Delegate_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{B6D28E78-1DC4-4D0F-B4E1-C42FE78873A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutor_C_Sharp_2_Buoi_2", "Tutor_C_Sharp_2_Buoi_2\Tutor_C_Sharp_2_Buoi_2.csproj", "{5D31300A-1DC3-48F8-BD68-AD39A1934E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B6D28E78-1DC4-4D0F-B4E1-C42FE78873A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6D28E78-1DC4-4D0F-B4E1-C42FE78873A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6D28E78-1DC4-4D0F-B4E1-C42FE78873A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D31300A-1DC3-48F8-BD68-AD39A1934E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D31300A-1DC3-48F8-BD68-AD39A1934E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D31300A-1DC3-48F8-BD68-AD39A1934E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D31300A-1DC3-48F8-BD68-AD39A1934E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,7 @@ namespace Event
         {
             Console.OutputEncoding = Encoding.UTF8;
             Children children = new Children();
-            children.DangKiSuKien += InRaManHinh;// Đăng kí sự kiện sẽ xảy ra khi Event được kích hoạt
+            children.dangKiSuKien += InRaManHinh;// Đăng kí sự kiện sẽ xảy ra khi Event được kích hoạt
             children.ActiveEvent(); // Kích hoạt Event
             Console.ReadKey();
         }
